@@ -1,18 +1,9 @@
-# Hi, I'm Shinozaki Kasumi
+# 篠崎香澄
 
-> Keep it simple.
+> 写一点字，留一点光。
 
 ---
 
-**About**
+**Blog** · [rikka.moe](https://rikka.moe)
 
-写一个简短的自我介绍在这里。一两行就好。
-
-**Now**
-
-- 最近在专注的事
-- 正在学习的东西
-
-**Elsewhere**
-
-- 你的链接 · 博客 / 邮箱 / 其他
+**Likes** · ZUTOMAYO ・ TOHO BOSSA NOVA ・ 书与封面收藏
